@@ -9,9 +9,9 @@ public class Lucinda_jenkins_homework {
         System.out.println("请输入需要相加的数x：");
         double y = reader.nextDouble();
 
-        double sum = 0;
+        double sum = x + y;
 
-        sum = x + y;
+        //sum = x + y;
 
         System.out.print("输入的和为："+sum);
 
