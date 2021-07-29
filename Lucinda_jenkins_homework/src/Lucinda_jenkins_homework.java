@@ -1,7 +1,7 @@
 import java.util.*;
 public class Lucinda_jenkins_homework {
     public static void main(String[] args){
-        /*System.out.println("请输入需要相加的数x：");
+        System.out.println("请输入需要相加的数x：");
 
         Scanner reader=new Scanner(System.in);
 
@@ -11,9 +11,7 @@ public class Lucinda_jenkins_homework {
 
         double y = reader.nextDouble();
 
-        double sum = x + y;*/
-
-        double sum = 100;
+        double sum = x + y;
         
         System.out.print("输入的和为："+sum);
 
